@@ -1,5 +1,8 @@
 - interest:
-  item: Hiking
+  item: Industrial jewelry
+  link: www.artofactory.com
+- interest:
+  item: Steel Sculpture
   link:
 - interest:
   item: Systems theory
@@ -8,8 +11,5 @@
   item: Cooking
   link:
 - interest:
-  item: Steel Sculpture
-  link:
-- interest:
-  item: Industrial jewelry
+  item: Hiking
   link:
