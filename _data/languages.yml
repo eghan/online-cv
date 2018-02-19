@@ -2,8 +2,14 @@
   idiom: English
   level: Native
 - language:
-  idiom: French
-  level: Professional
+  idiom: Javascript
+  level: Experienced
 - language:
-  idiom: Spanish
-  level: Professional
+  idiom: Perl
+  level: Retired
+- language:
+  idiom: PHP
+  level: Dabbler
+- language:
+  idiom: Python
+  level: Initiate
