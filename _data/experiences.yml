@@ -1,28 +1,29 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
-- experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
-- experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+        role: "Design, production, administration, marketing"
+        time: "2009 - Present"
+        company: "Artofactory (self-employed)"
+        details: "All of the things"
+
+        - experience:
+        role: "Contract Web Coding"
+        time: "2005 - Present"
+        company: "Self Employed"
+        details: "Javascript, Node, React, Drupal, PHP, Wordpress, Design"
+
+        - experience:
+        role: "Platform integration, and education design"
+        time: "2003 - 2005"
+        company: "Performance learning Systems, Nevada City Ca"
+        details: "(Perl, SQL, JS, Linux)"
+
+        - experience:
+        role: "Design, Javascript and User Experience Design"
+        time: "2001 - 2003"
+        company: "Tristream, Grass Valley Ca"
+        details: "Javascript, Photoshop, Illustrator, Indesign"
+
+        - experience:
+        role: "Digital Prepress"
+        time: "1998 - 2001"
+        company: "Adinfinitum, Grass Valley Ca"
+        details: "Photoshop, Illustrator, Indesign"
