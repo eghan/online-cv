@@ -1,12 +1,9 @@
 - skill:
-  name: Learning and research
-  level: 98%
-- skill:
-  name: Javascript
+  name: Javascript, ES6 / JSX
   level: 90%
 - skill:
-  name: Design, Photoshop, vectors
-  level: 90%
+  name: CI / TDD / GIT
+  level: 60%
 - skill:
   name: HTML5 & CSS
   level: 85%
@@ -16,3 +13,6 @@
 - skill:
   name: CLI / Node / scripting
   level: 50%
+- skill:
+  name: Design, Photoshop, vectors
+  level: 90%
