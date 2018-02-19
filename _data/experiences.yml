@@ -1,29 +1,29 @@
 - experience:
-        role: "Design, production, administration, marketing"
-        time: "2009 - Present"
-        company: "Artofactory (self-employed)"
-        details: "All of the things"
+        role:  Design, production, administration, marketing
+        time:  2009 - Present
+        company:  Artofactory (self-employed)
+        details:  "All of the things"
 
         - experience:
-        role: "Contract Web Coding"
-        time: "2005 - Present"
-        company: "Self Employed"
-        details: "Javascript, Node, React, Drupal, PHP, Wordpress, Design"
+        role:  Contract Web Coding
+        time:  2005 - Present
+        company:  Self Employed
+        details:  "Javascript, Node, React, Drupal, PHP, Wordpress, Design"
 
         - experience:
-        role: "Platform integration, and education design"
-        time: "2003 - 2005"
-        company: "Performance learning Systems, Nevada City Ca"
-        details: "(Perl, SQL, JS, Linux)"
+        role:  Platform integration, and education design
+        time:  2003 - 2005
+        company:  Performance learning Systems, Nevada City Ca
+        details:  "(Perl, SQL, JS, Linux)"
 
         - experience:
-        role: "Design, Javascript and User Experience Design"
-        time: "2001 - 2003"
-        company: "Tristream, Grass Valley Ca"
-        details: "Javascript, Photoshop, Illustrator, Indesign"
+        role:  Design, Javascript and User Experience Design
+        time:  2001 - 2003
+        company:  Tristream, Grass Valley Ca
+        details:  "Javascript, Photoshop, Illustrator, Indesign"
 
         - experience:
-        role: "Digital Prepress"
-        time: "1998 - 2001"
-        company: "Adinfinitum, Grass Valley Ca"
-        details: "Photoshop, Illustrator, Indesign"
+        role:  Digital Prepress
+        time:  1998 - 2001
+        company:  Adinfinitum, Grass Valley Ca
+        details:  "Photoshop, Illustrator, Indesign"
